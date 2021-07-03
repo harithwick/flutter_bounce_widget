@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bounce_widget/widgets/bounce_widget.dart';
-import 'package:flutter_bounce_widget/widgets/Heading.dart';
+import 'package:flutter_bounce_widget/widgets/heading.dart';
 
 class HomeScreen extends StatefulWidget {
   static const routeName = '/';
